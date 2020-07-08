@@ -1,4 +1,4 @@
-# titanic_dataset_solution
+
 This solution to the popular survivor classification contest on Kaggle uses Neural Networks to solve the problem with 77.5% accuracy.
 The solution uses two datasets:
 one train dataset to train the model on and the test dataset to test the model's performance.
