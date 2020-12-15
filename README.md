@@ -1,5 +1,7 @@
 # Titanic Dataset Survivor Classification (Using Keras)
-![Titanic setting out to sea](/images/titanic-sinking-photos.jpg)
+![](/images/titanic-sinking-photos.jpg)
+:--:
+**Titanic setting out to sea**
 ### This solution to the popular survivor classification contest on Kaggle uses Neural Networks to solve the problem with 77.5% accuracy.
 
 ### The solution uses:
@@ -12,3 +14,9 @@
 - [x] The training set is first to be transformed to be made "learnable" through stepwise data cleaning.
 - [x] Then a model is designed using keras library that trains on the cleaned dataset. For cleaning the dataset, I have filled in missing data, categorized data into various classes and have done feature normalization.
 - [x] The trained model is then tested on test set and the result tallied with known values in titanic dataset to calculate the accuracy in performance of the model.
+
+![](/images/titanic-lifeboat.jpg)
+:--:
+**Titanic survivors in a lifeboat**
+
+:ship:
