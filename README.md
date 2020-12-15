@@ -2,7 +2,7 @@
 ![](/images/titanic-sinking-photos.jpg)
 :--:
 **Titanic setting out to sea**
-### This solution to the popular survivor classification contest on Kaggle uses Neural Networks to solve the problem with 77.5% accuracy.
+### This solution to the popular survivor classification contest on Kaggle uses Neural Networks to solve the problem with 77.27% accuracy.
 
 ### The solution uses:
 ##### 1. *train.csv*, that contains training dataset to train our model,
